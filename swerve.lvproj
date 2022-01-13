@@ -13,7 +13,6 @@
 		<Item Name="swerve" Type="Folder" URL="..">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
-		<Item Name="PseudoInverse Calculator.vi" Type="VI" URL="../../../LabVIEW Data/Custom VIs/PseudoInverse Calculator.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Draw Arc.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Draw Arc.vi"/>
